@@ -28,6 +28,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -50,7 +51,7 @@
       <workItem from="1601469875217" duration="4801000" />
       <workItem from="1601475519205" duration="308000" />
       <workItem from="1601476014507" duration="1689000" />
-      <workItem from="1601478458957" duration="1117000" />
+      <workItem from="1601478458957" duration="1430000" />
     </task>
     <servers />
   </component>
