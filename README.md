@@ -1,6 +1,6 @@
+# CASE MODULE 1 CODEGYM HERE IS THE SAMPLE OF 3D GAME
 # 🦖 T-Rex Run 3D
 Play the game here: http://priler.github.io/dino3d/low.html  
-Alt. version with best quality settings for high-end PCs: http://priler.github.io/dino3d/
 
 # Description
 T-Rex Run 3D is a ThreeJS WebGL game made as an experiment.  
@@ -10,9 +10,6 @@ All the graphics was hand crafted with Magica Voxel software, so that the overal
 
 # Screenshot
 ![T-Rex Run 3D](https://i.imgur.com/fESLYlF.png)
-
-# ToDo
-https://trello.com/b/Pt4FSqOi/t-rex-run-3d
 
 ## Change history
 - Update 1
@@ -42,20 +39,3 @@ https://trello.com/b/Pt4FSqOi/t-rex-run-3d
   - Scores display fixed
   - Moving objects stuttering fixed (never use .splice() again :3)
 
-## Credits
-https://threejs.org/ - WebGL 3D Library  
-https://ephtracy.github.io/ - Free lightweight 8-bit voxel art editor  
-https://github.com/daishihmr/vox.js/ - MagicaVoxel *.vox file parser and Three.js mesh builder  
-https://github.com/goldfire/howler.js/ - Audio library  
-https://github.com/creativelifeform/three-nebula - WebGL based particle system engine for three.js  
-https://github.com/addyosmani/visibly.js/ - Page Visibility API shim
-
-## Author
-
-(C) 2020 Abraham Tugalov.
-http://howdyho.net
-
-## Contributors
-- Aidar Ayupov <https://github.com/preposition17> & Vildan Safin <https://github.com/Enigma228322> for inspiration about 3D models
-- Rifat Fazlutdinov <https://github.com/Rifat-Fazlutdinov> for telegram bugreport bot
-- Arnur Bekbolov <https://vk.com/kurasaiiiii> for skins ideas
