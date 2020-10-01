@@ -1,6 +1,10 @@
-# CASE MODULE 1 CODEGYM HERE IS THE SAMPLE OF 3D GAME
+# CASE MODULE 1 CODEGYM HERE IS THE SAMPLE OF 3D GAME WITH USING TEAM-WORK !!!
 # 🦖 T-Rex Run 3D
+# 🦖 (C)opy Right 2020 Abraham Tugalov.
+
 Play the game here: http://priler.github.io/dino3d/low.html  
+#ToDo
+ https://trello.com/b/Pt4FSqOi/t-rex-run-3d
 
 # Description
 T-Rex Run 3D is a ThreeJS WebGL game made as an experiment.  
@@ -11,31 +15,4 @@ All the graphics was hand crafted with Magica Voxel software, so that the overal
 # Screenshot
 ![T-Rex Run 3D](https://i.imgur.com/fESLYlF.png)
 
-## Change history
-- Update 1
-  - New interface
-  - Infinity jumping while holding jump button
-  - Jumping buttons now is: Space, Arrow Up, W
-  - Bend down buttons now is: Arrow Down, S, Ctrl
-  - Restart on game end
-  - Fixed bug when a player could switch active tab and collisions ingame was not working
-  - Fixed bug with not fully loaded textures before game start
-  - Fixed bug when high scores continued to count even after game end
-  - Fixed hitbox
-  - Fixed ability to jump from bend down position
-  - Fixed disappearing ground textures
-  - Other minor bug fixes
-
-- Update 2
-  - Voxel landscape added
-  - Palm trees has been removed, instead there is scorpions, skulls, etc
-  - UI is now fully in pixel art style
-  - Load screen added
-  - New dino reaction on collisions
-  - W & S keys was removed
-  - Nature Manager & Enemy Manager was fully rewritten for better performance and new feautures
-  - "Black screens" bug fixed
-  - High jumps bug fixed
-  - Scores display fixed
-  - Moving objects stuttering fixed (never use .splice() again :3)
 
